@@ -1,1 +1,2 @@
-print("Base file of the project")
+def add(a,b):
+	return a+b
